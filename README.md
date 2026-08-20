@@ -273,7 +273,7 @@ jupyter notebook
 
 ### 👤 Created By
 **Priyanshu Saini**  
-GitHub: [PAIshanMadusha](https://github.com/PAIshanMadusha)  
+GitHub: [Priyanshu saini](https://github.com/priyanshusaini566)  
 
 Feel free to explore my work and reach out if you'd like to collaborate! 🚀
 
