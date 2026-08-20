@@ -260,16 +260,6 @@ jupyter notebook
 
 #### * Then open `crop_recommendation_model.ipynb` and run the cells step by step.
 
-## 📸 System Screenshots:
-
----
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb54d5e3-3360-4b1d-8582-c66b7c716288" alt="Screenshot 1" width="800">
-  </br>
-  <img src="https://github.com/user-attachments/assets/648a8960-2ea1-4f49-b3c5-734ff6d92e10" alt="Screenshot 1" width="800">
-</p>
-
----
 
 ### 👤 Created By
 **Priyanshu Saini**  
