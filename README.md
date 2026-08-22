@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🌾 CROP RECOMMENDATION SYSTEM</h1>
-<h4 align="center">MODEL BUILT USING PYTHON, NUMPY, JUPYTER NOTEBOOK, FLASK, AND JAVASCRIPT</h4>
+<h4 align="center">MODEL BUILT USING PYTHON, JUPYTER NOTEBOOK, FLASK, AND JAVASCRIPT</h4>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/daa8e441-f20d-40ad-a3d3-e8248ca5bd3e" height="38"/>&nbsp;&nbsp;&nbsp;
