@@ -54,8 +54,6 @@ An intelligent, machine learning–powered crop recommendation web application t
 
 ## 📜 Dataset
 
-- **Link**: [https://github.com/PAIshanMadusha/crop-recommendation-model/blob/main/dataset/Crop_recommendation.csv](https://github.com/PAIshanMadusha/crop-recommendation-model/blob/main/dataset/Crop_recommendation.csv)
-- **Source**: [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 - **Crops**: 22 different crop types:
 > Rice, Maize, Chickpea, Kidney Beans, Pigeon Peas, Moth Beans, Mung Bean, Black Gram, Lentil, Pomegranate, Banana, Mango, Grapes, Watermelon, Muskmelon, Apple, Orange, Papaya, Coconut, Cotton, Jute, Coffee
 - **Features**: 7 environmental and soil parameters:
