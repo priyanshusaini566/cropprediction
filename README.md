@@ -69,7 +69,6 @@ The following technologies are used in this project:
 | **Development** | Visual Studio Code, Jupyter Notebook | Model development, experimentation, debugging, and project development environment |
 | **Backend**  | Python, Flask, Scikit-Learn, NumPy, Pickle | Handles machine learning model prediction, data processing, and API endpoints |
 | **Frontend** | HTML, CSS, JavaScript | Provides interactive UI for entering inputs and displaying crop recommendations |
-| **Deployment** | Render, Gunicorn | Production server setup and cloud hosting for live application access |
 
 ---
 
