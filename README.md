@@ -12,7 +12,7 @@
   <img src="https://github.com/user-attachments/assets/6bfaa1c7-d0cb-4d14-bbcf-ddef317693c9" height="43"/>
 </p>
 
-<h4 align="center">DEPLOYED ON RENDER VIA GITHUB</h4>
+<h4 align="center">DEPLOYED ON GITHUB</h4>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe117f9a-8bd3-4161-8af3-9b4104c1f74d" height="23"/>
