@@ -48,7 +48,6 @@ An intelligent, machine learning–powered crop recommendation web application t
 * **Real-time Recommendations**: Get instant crop suggestions with confidence scores
 * **Top 6 Crop Analysis**: Displays the best 6 crops ranked by suitability
 * **Interactive UI**: User-friendly web interface with visual confidence indicators
-* **RESTful API**: JSON-based API for easy integration
 
 ---
 
